@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "BeamLink Extension",
-	"description": "Makes BeamLink's messages look better",
-	"version": "1.3",
+	"name": "ChatLinker Extension",
+	"description": "Makes ChatLinker's messages look better",
+	"version": "1.10",
 	"icons": {"256": "icon.png"},
 	
 	"content_scripts": [{
